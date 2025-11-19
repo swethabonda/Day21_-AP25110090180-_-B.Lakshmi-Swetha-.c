@@ -1,0 +1,5 @@
+ The program loads 5 vehicles’ IDs, speeds, and lane numbers into arrays.
+ It checks each vehicle to see if its speed is above 80 (speed violation).
+ It also checks if the vehicle is not in the lane matching its ID % 4 (lane violation).
+ It counts total speed violations, lane violations, and finds the busiest and least-busy lanes.
+ Finally, it prints a full report showing all vehicles and the violation summary.
